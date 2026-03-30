@@ -1,0 +1,7 @@
+duckdb==1.0.0
+dbt-duckdb==1.8.1
+pandas==2.2.2
+pyarrow==16.1.0
+requests==2.32.3
+apache-airflow==2.9.2
+pyspark==3.5.0

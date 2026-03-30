@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: int_trips_enriched
+    columns:
+      - name: pickup_datetime
+        tests:
+          - not_null
+      - name: dropoff_datetime
+        tests:
+          - not_null

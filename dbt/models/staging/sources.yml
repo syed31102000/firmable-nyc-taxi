@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: main
+    tables:
+      - name: yellow_tripdata_raw
+        loaded_at_field: tpep_pickup_datetime
+        freshness:
+          warn_after: {count: 2, period: day}
+          error_after: {count: 7, period: day}
