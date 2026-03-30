@@ -209,6 +209,20 @@ Focused on logic + structure over infra complexity
 
 Used AI tools to:
 
+Chatgpt paid subscription to build complete end to end code everything right from start to end:
+1. It gave compelete code, troubl shooted it fromm scratch and found few bugs resolved them using Chatgpt.
+2. Wanted to try something new and started to build an agent to interact with the data through chat.
+3. Using Chatgpt development effort reduced a lot and it got finish in around 4-6 hours but the remaining time was utilised to understand the logic and trying to build something more useful with agents.
+4. Thank you so much for assignment, it gave me a new perspective of building things from scratch in very less time with higher quality.
+
+It would have been possible if the complete step by step details were missing. Instructions were very detailed and agents understood the assignment and provide the output in no time.
+
+Learning:
+1. If the instructions are very detailed with all the steps outlines then the agent will perform very efficiently and time will also reduce drastically.
+2. We can build end to end pipelines with smaller teams in very less time compared to past projects.
+3. Need to upskill on structure thinking, step by step detailed promting, deeper product understanding and business knowledge.
+
+
 scaffold dbt models
 generate DAG structure
 assist SQL queries
